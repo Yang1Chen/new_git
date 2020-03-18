@@ -1,3 +1,5 @@
 #I went back to the initial state
-#edited in master version
+<<<<<<< HEAD
+#edited in master version and developed version
+
 
